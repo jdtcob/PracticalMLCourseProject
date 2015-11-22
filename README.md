@@ -30,4 +30,5 @@ The goal of your project is to predict the manner in which they did the exercise
 2. You should also apply your machine learning algorithm to the 20 test cases available in the test data above. Please submit your predictions in appropriate format to the programming assignment for automated grading. See the programming assignment for additional details. 
 
 **PLEASE NOTE DUE TO TIME AND COMPUTATIONAL CONSTRAINTS gh-pages WAS NOT USED FOR THIS SUBMISSION**
-The associated write-up for this project can be found on RPubs: 
+
+The associated write-up for this project can be found on RPubs: http://rpubs.com/jdtcob/129898
